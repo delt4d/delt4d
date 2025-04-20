@@ -1,13 +1,4 @@
 <p align="center">
-  <h1 text-align="center" align="center">
-    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
-    The future's looking bright. Can you feel it coming?
-  </h1>
-</p>
-
-<br>
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=delt4d&theme=synthwave" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delt4d&layout=compact&langs_count=7&theme=synthwave"/>
 </p>
