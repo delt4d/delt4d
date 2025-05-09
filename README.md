@@ -16,9 +16,3 @@ I am a fullstack .NET and NodeJS developer with a degree in Systems Analysis and
 </div>
 
 <img src="./wave.gif" style="width:100%;position:absolute;left:0;bottom:0;" />
-
-<style>
-  body {
-    background: rgba(0, 0, 255, 0.1);
-  }
-</style>
