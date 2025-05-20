@@ -1,4 +1,4 @@
-# Hey, You!
+# Hello!
 
 I am a fullstack .NET and NodeJS developer with a degree in Systems Analysis and Development. I know some technologies, that include ReactJS, NodeJS, Docker, NestJS and programming languages, like C#, Javascript/Typescript, Python and PHP.
 
@@ -15,17 +15,14 @@ I am a fullstack .NET and NodeJS developer with a degree in Systems Analysis and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delt4d&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
+<br/>
+
 # Have a look.
 
 ### [Wany.](https://github.com/Wany-Studios/Wany)
 Wany is a web-based game streaming platform focused on indie games exported to run in the browser. It allows users to play without downloads and supports a monetization model where developers earn based on player engagement, with optional subscription plans and ads helping fund payouts.
 
 <img src="./images/wany.png" />
-
-### [E-commerce Project: Book Store.](https://github.com/delt4d/Projeto-Ecommerce)
-Developed as part of the Design Patterns class, this PHP-based project showcases the implementation of various design patterns in building an e-commerce platform.
-
-<img src="./images/projeco.png" />
 
 ### [Thebug Plataforma.](https://github.com/delt4d/thebug-plataforma)
 A PHP application that provides explanations and quizzes on data structures, including Singly Linked List, Doubly Linked List, Binary Search Tree, B-Tree, Trie, AVL Tree, and Red-Black Tree. Users can study each structure and test their understanding through integrated quizzes.
@@ -36,6 +33,18 @@ A PHP application that provides explanations and quizzes on data structures, inc
 A tool designed to record and replicate user interactions within applications. Built using JavaScript, HTML, and C#, it aids in automating UI testing and analyzing user behavior by mimicking recorded actions.
 
 <img src="./images/echo.png" />
+
+### [URL Shortener](https://github.com/delt4d/Url-Shortener)
+ASP.NET Core and Blazor project to generate shorten URLs.
+
+<img src="./images/urlshortener.png">
+
+### [E-commerce Project: Book Store.](https://github.com/delt4d/Projeto-Ecommerce)
+Developed as part of the Design Patterns class, this PHP-based project showcases the implementation of various design patterns in building an e-commerce platform.
+
+<center>
+<img src="./images/projeco.png" />
+</center>
 
 ### [K-Nearest Neighbor Digits Classifier With Python and Sklearn.](https://github.com/delt4d/Handwritten-Digits-Prediction)
 This project utilizes the K-Nearest Neighbors (KNN) algorithm to classify handwritten digits from the sklearn.digits dataset. Implemented in Python, it serves as an introduction to machine learning and pattern recognition techniques.
