@@ -11,7 +11,6 @@ I am a fullstack .NET and NodeJS developer with a degree in Systems Analysis and
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=delt4d&theme=synthwave" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delt4d&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
