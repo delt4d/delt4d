@@ -1,4 +1,6 @@
 # Hello!
+<a href="https://www.linkedin.com/in/leandro-gabriel-da-cruz-145494227/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:leandrocruz717@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 
 I am a fullstack .NET and NodeJS developer with a degree in Systems Analysis and Development. I know some technologies, that include ReactJS, NodeJS, Docker, NestJS and programming languages, like C#, Javascript/Typescript, Python and PHP.
 
